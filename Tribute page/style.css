@@ -1,0 +1,21 @@
+body{
+  margin-top: 5%;
+}
+#main-container {
+  overflow: auto;
+}
+h1{
+  font-size: 78px;
+}
+.img-padding{
+  padding-right: 5%;
+  padding-left: 5%;
+  padding-bottom: 5%;
+}
+.bold-text{
+  font-weight: bold;
+}
+.text-block-padding{
+  padding-left: 5%;
+  padding-right:5%;
+}
